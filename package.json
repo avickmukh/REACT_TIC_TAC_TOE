@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "prop-types": "^15.7.2"
+  },
+  "name": "react_tic_tac_toe",
+  "description": "Simple Tic Tac Toe game",
+  "version": "1.0.0",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
